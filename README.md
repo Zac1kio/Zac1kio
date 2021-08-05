@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zack
-- 👀 Currently Working on User Interface
+- 👀 UI Design
 - 🌱 I’m currently learning LUA
 - 🦤 @ZackIIX
 
